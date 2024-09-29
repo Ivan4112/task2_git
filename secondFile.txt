@@ -4,7 +4,7 @@ Second 3
 Second 4
 Second 5
 Second 6
-Second 7
-Second 8
+Changed line 1 from branch git_2
+Changed line 2 from branch git_2
 Second 9
 Second 10
