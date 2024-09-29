@@ -5,6 +5,6 @@ Second 4
 Second 5
 Second 6
 Updated line 1 from branch git_1
-Updated line 2 from branch git_1
+Changed line 2 from branch git_2
 Second 9
 Second 10
